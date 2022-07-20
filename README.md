@@ -8,5 +8,5 @@ This repository is dedicated to the completion of my task 1 from The Sparks Foun
 ### Data Science & Business Analytics
 |Task|Description|
 |---|---|
-|[Task 1]()|Prediction using Supervised ML (Level - Beginner)|
+|[Task 1](https://github.com/prizx10/GRIP-Internship-Task1/tree/main/Task-1)|Prediction using Supervised ML (Level - Beginner)|
 
